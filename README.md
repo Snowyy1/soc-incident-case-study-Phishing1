@@ -14,7 +14,7 @@ A user attempted to access a shortened URL (Bitly) flagged by threat intelligenc
 ## Outcome
 - No compromise detected
 - Access was blocked at perimeter
-- Classified as low severity true positive detection
+- Classified as low severity true positive detection (Blocked Attempt / No Compromise)
 
 ## Skills Demonstrated
 - SIEM log analysis
